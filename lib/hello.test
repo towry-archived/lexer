@@ -1,0 +1,7 @@
+
+# below function is private
+var hello: {
+    puts "Hello World"
+}
+
+hello

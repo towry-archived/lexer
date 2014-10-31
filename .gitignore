@@ -1,0 +1,11 @@
+*.o
+*.exe
+*/*.o
+*/*.exe
+lexer
+*.out
+*/*.out
+bin/
+obj/
+out.txt
+core
